@@ -13,7 +13,7 @@ The goal of the project is to provide a functional tool for improving image qual
 To get started with the RBF Image Denoiser, clone this repository to your local machine:
 
 ```bash
-https://github.com/triple1566/RBF_Image_Denoiser.git
+git clone https://github.com/triple1566/RBF_Image_Denoiser.git
 cd RBF_Image_Denoiser
 
 pip install -r requirements.txt
