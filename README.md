@@ -16,3 +16,4 @@ To get started with the RBF Image Denoiser, clone this repository to your local 
 https://github.com/triple1566/RBF_Image_Denoiser.git
 cd RBF_Image_Denoiser
 
+pip install -r requirements.txt
